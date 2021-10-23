@@ -70,5 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Structure for this project 
-![alt text](https://github.com/choijun0/workingschedule-cafeteria-cleaning-/blob/main/structure.jpg?raw=true)
+![alt text](https://github.com/choijun0/workingschedule-cafeteria-cleaning-/blob/main/public/structure.jpg?raw=true)
 
